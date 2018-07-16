@@ -2,5 +2,5 @@
 <manifest>
     <remote name="github" fetch="https://github.com/" />
     <project remote="github" name="heremaps/oss-review-toolkit-docker" path="docker" revision="2a28142d8af301f8257f261512d8a1e94fd3d6cb" />
-    <project remote="github" name="heremaps/oss-review-toolkit-test-data" path="test-data" revision="93cf9bc112a32cabbc9c8ff99a8db4ae0ebbf89d" />
+    <project remote="github" name="grpc/grpc" path="grpc" revision="refs/tags/v1.7.2" />
 </manifest>
