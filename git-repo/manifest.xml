@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="github" fetch="https://github.com/" />
-    <project remote="github" name="heremaps/oss-review-toolkit-docker" path="docker" revision="2a28142d8af301f8257f261512d8a1e94fd3d6cb" />
+    <project remote="github" name="spdx/tools" path="spdx-tools" revision="refs/tags/v2.1.15" />
     <project remote="github" name="grpc/grpc" path="grpc" revision="refs/tags/v1.7.2" />
 </manifest>
