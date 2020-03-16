@@ -2,5 +2,5 @@
 <manifest>
     <remote name="github" fetch="https://github.com/" />
     <project remote="github" name="spdx/tools" path="spdx-tools" revision="refs/tags/v2.1.15" />
-    <project remote="github" name="heremaps/oss-review-toolkit-test-data-git-submodules" path="submodules" revision="8c021e9a28cf528b56affa5e8adc5ca1dda59fad"/>
+    <project remote="github" name="oss-review-toolkit/ort-test-data-git-submodules" path="submodules" revision="8c021e9a28cf528b56affa5e8adc5ca1dda59fad"/>
 </manifest>
