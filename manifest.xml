@@ -2,5 +2,5 @@
 <manifest>
     <remote name="github" fetch="https://github.com/" />
     <project remote="github" name="spdx/tools" path="spdx-tools" revision="refs/tags/v2.1.15" />
-    <project remote="github" name="bennati/ort-test-data-git-submodules" path="submodules" revision="fcea94bab5835172e826afddb9f6427274c983b9"/>
+    <project remote="github" name="bennati/ort-test-data-git-submodules" path="submodules" revision="fa21aaa56fa764ec61346e5eb581c099d102fbaf"/>
 </manifest>
